@@ -5,7 +5,7 @@ From PortfolioProject.dbo.NashvilleHousing
 
 --------------------------------------------------------------------------------------------------------------------------
 
--- Standardize Date Format
+-- Standardise Date Format
 
 
 Select saleDateConverted, CONVERT(Date,SaleDate)
